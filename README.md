@@ -1,0 +1,2 @@
+# NHANESDPP
+This is a repository for the STATA coding scripts and data sets for the analysis of diet quality, physical activity engagement, and prediabetes status of Latinx adults that live in the US. The data source used is the National Health and Nutrition Examination Survey (NHANES). a pooled cross-sectional analysis of four cycles (2011/2012, 2013/2014, 2015/2016, and 2017/2018) of the survey was performed.    
